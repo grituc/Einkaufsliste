@@ -1,0 +1,6 @@
+Dies ist eine Einkaufsliste 
+Heute ist Dienstag
+Ich brauche Äpfel, Brot und Eier.
+
+Joghurt für das Früstück morgen.
+//Liste fertig.
