@@ -17,5 +17,5 @@ Praktikum-Woche5
 
 > ####Hobbies:
 > *Fussball
->	* [Ein interessanter Link](http://manutd.ru/"Interesting")
+>	* [Ein interessanter Link](http://manutd.ru/)
 > *Lesen
