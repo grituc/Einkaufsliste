@@ -4,3 +4,5 @@ Ich brauche Äpfel, Brot und Eier.
 
 Joghurt für das Früstück morgen.
 //Liste fertig.
+
+//refreshing skills
